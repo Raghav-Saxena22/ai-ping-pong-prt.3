@@ -1,0 +1,26 @@
+canvas
+{
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.modal-body
+{
+    width: 400px;
+}
+
+h3
+{
+   width: 1500px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
